@@ -8,7 +8,7 @@ Safe usage on other OS would need revision of list of directories to exclude in 
 
 ## Install
 ```bash
-git clone https://github.com/<you>/dupefinder.git
+git clone https://github.com/wisaimtiac/findDuplFiles-v1_0_0.git
 cd dupefinder
 ```
 No dependencies to install.
