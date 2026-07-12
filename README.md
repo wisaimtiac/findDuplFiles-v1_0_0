@@ -1,17 +1,10 @@
 ## findDuplicateFiles (fDF) v1.0.0
 Finds byte-identical files in directory and helps you delete duplicates.
 
-Requires Python 3.7+.
+Requires Python 3.7+. No dependencies to install.
 
 ATTENTION:	Tested and used on Windows 10 only!
 Safe usage on other OS would need revision of list of directories to exclude in line 37 ff.
-
-## Install
-```bash
-git clone https://github.com/wisaimtiac/findDuplFiles-v1_0_0.git
-cd dupefinder
-```
-No dependencies to install.
 
 ## Usage
 ```bash
