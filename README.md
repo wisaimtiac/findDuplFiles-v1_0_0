@@ -1,4 +1,4 @@
-## findDuplicateFiles (fDF) v1.0.0
+## findDuplicateFiles (fDF)
 Finds byte-identical files in directory and helps you delete duplicates.
 
 Requires Python 3.7+. No dependencies to install.
